@@ -1,0 +1,15 @@
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\bin\Debug\net6.0\calculador-de-media.exe
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\bin\Debug\net6.0\calculador-de-media.deps.json
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\bin\Debug\net6.0\calculador-de-media.runtimeconfig.json
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\bin\Debug\net6.0\calculador-de-media.dll
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\bin\Debug\net6.0\ref\calculador-de-media.dll
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\bin\Debug\net6.0\calculador-de-media.pdb
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.csproj.AssemblyReference.cache
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.AssemblyInfoInputs.cache
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.AssemblyInfo.cs
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.csproj.CoreCompileInputs.cache
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.dll
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\ref\calculador-de-media.dll
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.pdb
+C:\Users\grsil\Desktop\programaçao\calculador-de-media\obj\Debug\net6.0\calculador-de-media.genruntimeconfig.cache
